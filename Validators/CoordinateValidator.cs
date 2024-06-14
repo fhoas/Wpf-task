@@ -1,6 +1,5 @@
 ﻿using FluentValidation;
 using WpfApp1.Models;
-using WpfApp1.Models;
 
 namespace WpfApp1.Validators
 {

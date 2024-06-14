@@ -4,10 +4,16 @@ C:\Users\User\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.runt
 C:\Users\User\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.dll
 C:\Users\User\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.pdb
 C:\Users\User\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\AutoMapper.dll
+C:\Users\User\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\ControlzEx.dll
 C:\Users\User\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\FluentValidation.dll
+C:\Users\User\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\MahApps.Metro.dll
+C:\Users\User\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\User\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
 C:\Users\User\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\User\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
 C:\Users\User\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\User\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\de\MahApps.Metro.resources.dll
 C:\Users\User\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.AssemblyReference.cache
 C:\Users\User\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\MainWindow.g.cs
 C:\Users\User\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\App.g.cs
@@ -21,6 +27,7 @@ C:\Users\User\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.Gene
 C:\Users\User\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfoInputs.cache
 C:\Users\User\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfo.cs
 C:\Users\User\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.sourcelink.json
 C:\Users\User\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.Up2Date
 C:\Users\User\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.dll
 C:\Users\User\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\refint\WpfApp1.dll

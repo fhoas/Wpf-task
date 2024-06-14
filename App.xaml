@@ -5,5 +5,9 @@
              StartupUri="MainWindow.xaml">
     <Application.Resources>
         <local:EmptyStringToVisibilityConverter x:Key="EmptyStringToVisibilityConverter"/>
+        <local:HalfWidthConverter x:Key="HalfWidthConverter"/>
+        <local:HalfHeightConverter x:Key="HalfHeightConverter"/>
+        <local:CoordinateToArrowXConverter x:Key="CoordinateToArrowXConverter"/>
+        <local:CoordinateToArrowYConverter x:Key="CoordinateToArrowYConverter"/>
     </Application.Resources>
 </Application>
